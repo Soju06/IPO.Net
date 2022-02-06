@@ -84,7 +84,7 @@ IPO.Net는 다음의 데이터를 가져올 수 있습니다.
    +------------------+--------------------+------------+---------------+--------------+-------------------------------------+
   ```
 
-  콘솔 테이블 출력은 [Npgg.ConsoleTable]([Newp/Npgg.ConsoleTable: IEnumerable 인 리스트를 콘솔창에서 테이블형태로 깔끔하게 그려줍니다. (github.com)](https://github.com/Newp/Npgg.ConsoleTable))을 사용함.
+  콘솔 테이블 출력은 [Npgg.ConsoleTable](https://github.com/Newp/Npgg.ConsoleTable)을 사용함.
 
 
 
